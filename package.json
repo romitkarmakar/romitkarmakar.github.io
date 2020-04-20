@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "name": "romitkarmakar.github.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romitkarmakar/romitkarmakar.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romitkarmakar/romitkarmakar.github.io/issues"
+  },
+  "homepage": "https://github.com/romitkarmakar/romitkarmakar.github.io#readme"
+}
